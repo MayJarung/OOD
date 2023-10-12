@@ -1,0 +1,2 @@
+def product(n):
+    pass
